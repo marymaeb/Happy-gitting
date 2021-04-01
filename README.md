@@ -1,4 +1,6 @@
-# Happy-gitting-
+# Happy-gitting
+
+**Hi there! Happy to git with you!**
 
 Just try out the git thing and enjoy gitting!
 
